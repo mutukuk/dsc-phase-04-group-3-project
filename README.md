@@ -27,8 +27,7 @@ The **tuned Logistic Regression model** emerged as the best overall performer, a
 1. Classify tweets based on sentiment (positive, negative, neutral)
 2. Understand key drivers of sentiment.
 3. Provide insights to help companies improve products/services or public perception.
-
-4. ### Value Proposition
+4. Value Proposition
 
 Track user emotions at scale across different products.
 
@@ -47,3 +46,6 @@ Reduce reliance on manual sentiment tagging.
   3.  Guide marketing strategies.
 
 
+## Installation
+1. Clone the repository
+2. 
