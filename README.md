@@ -1,5 +1,7 @@
 # dsc-phase-04-group-3-project
 
+## Sentiment classification of tweets related to Apple and Google products.
+
 ## Project Summary
 
 This project focuses on **sentiment classification of tweets** related to Apple and Google products using supervised machine learning. The dataset includes over **9,000 labeled tweets** across three sentiment classes: **positive, negative, and neutral**. The goal was to build an effective model to predict sentiment from tweet text — a tool that can support **brand monitoring, customer engagement, and reputation management**.
