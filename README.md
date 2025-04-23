@@ -54,7 +54,7 @@ The tweets were cleaned and standardized using:
 
 ##  Models Used
 - Baseline Logistic Regression
--  Tuned Logistic Regression (L1 regularization)
+-  Tuned Logistic Regression
 - Random Forest
 - XGBoost
 - LSTM (Long Short-Term Memory)
